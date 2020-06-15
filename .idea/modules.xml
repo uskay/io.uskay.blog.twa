@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="io.uskay.blog.twa/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/io.uskay.blog.twa.iml" filepath="$PROJECT_DIR$/.idea/modules/io.uskay.blog.twa.iml" group="io.uskay.blog.twa" />
+    </modules>
+  </component>
+</project>

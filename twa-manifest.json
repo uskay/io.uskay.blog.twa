@@ -1,0 +1,24 @@
+{
+  "packageId": "io.uskay.blog.twa",
+  "host": "blog.uskay.io",
+  "name": "ウェブボウズ",
+  "launcherName": "ウェブボウズ",
+  "themeColor": "#2B546D",
+  "navigationColor": "#000000",
+  "backgroundColor": "#FFFFFF",
+  "enableNotifications": false,
+  "startUrl": "/?launch=twa",
+  "iconUrl": "https://blog.uskay.io/img/icon-512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "alias": "android",
+    "path": "./android.keystore"
+  },
+  "appVersionName": "1",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://blog.uskay.io/manifest.json",
+  "fallbackType": "customtabs",
+  "appVersion": "1"
+}

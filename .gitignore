@@ -1,0 +1,8 @@
+# Project exclude paths
+/.gradle/
+/app/build/
+/app/debug/
+/app/build/intermediates/javac/debug/classes/
+android.keystore
+local.properties
+
